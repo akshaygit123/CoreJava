@@ -30,7 +30,7 @@ class Assignmentt {
       //System.out.println();
     Assignmentt s= new Assignmentt();
     s.m1();
-    System.out.println("-------------------------------");
+    System.out.println("------------------------------- ");
     //System.out.println(s.m1());
     Assignmentt.m2();
 }
